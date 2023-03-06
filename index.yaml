@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  colour-bomb:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-06T20:03:09.055576335Z"
+    description: A Helm chart for Kubernetes
+    digest: e5e6d2e8514a61518ce25b6f71b42c23939fcd10957ab5e4a052fa4f8d793f0f
+    name: colour-bomb
+    type: application
+    urls:
+    - https://dhamed007.github.io/namavi-helm-charts/colour-bomb-0.1.0.tgz
+    version: 0.1.0
+  gem-crush:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-06T20:03:09.05609292Z"
+    description: A Helm chart for Kubernetes
+    digest: 20b89afdd8f8cabd4e35d5d7733f898171e1adadfaf8305cc0fdeafdc014414c
+    name: gem-crush
+    type: application
+    urls:
+    - https://dhamed007.github.io/namavi-helm-charts/gem-crush-0.1.0.tgz
+    version: 0.1.0
+  rummy:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-06T20:03:09.056624045Z"
+    description: A Helm chart for Kubernetes
+    digest: 43a73ab1fd17b7214b13a6cac46c55f86722beee8a787357e902f45c33983e57
+    name: rummy
+    type: application
+    urls:
+    - https://dhamed007.github.io/namavi-helm-charts/rummy-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-06T20:03:09.05489463Z"
